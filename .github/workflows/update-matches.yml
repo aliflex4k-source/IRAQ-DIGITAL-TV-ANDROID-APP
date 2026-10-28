@@ -1,0 +1,47 @@
+name: Update match schedule
+
+# Hourly (GitHub may start scheduled runs late under load) and manually for testing.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-matches
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Build matches.json from football-data.org
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python scripts/update_matches.py
+
+      # Commit only when the schedule really changed (the script leaves the file untouched otherwise).
+      - name: Commit if changed
+        run: |
+          if [ ! -f matches/matches.json ]; then
+            echo "No schedule file yet."
+            exit 0
+          fi
+          git add matches/matches.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update match schedule"
+          git push
