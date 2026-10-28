@@ -7,6 +7,7 @@
   "Stream URLs never go in this file."
  ],
  
+
 "competitions": {
   "PL": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
   "PD": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
@@ -20,7 +21,9 @@
   "BSA": [],
   "EC": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
   "WC": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4", "bein_sports_5", "bein_sports_6", "bein_sports_7", "bein_sports_8", "bein_sports_9"]
-}
+},
+"channels": {
+
 
  "channels": {
   "bein_sports_1": {
