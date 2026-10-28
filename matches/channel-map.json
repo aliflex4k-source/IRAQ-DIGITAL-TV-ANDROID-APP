@@ -6,7 +6,7 @@
   "or 'patterns' (channel-name regex). Variants such as 4K / FHD / HD / SD are detected automatically.",
   "Stream URLs never go in this file."
  ],
-
+ 
 "competitions": {
   "PL": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
   "PD": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
