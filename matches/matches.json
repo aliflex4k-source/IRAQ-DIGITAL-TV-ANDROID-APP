@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T17:57:13Z",
+ "updatedAt": "2026-10-28T19:57:05Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -68,48 +68,6 @@
   }
  },
  "matches": [
-  {
-   "id": "fd_558552",
-   "competition": "Serie A",
-   "competitionCode": "SA",
-   "home": {
-    "name": "Genoa",
-    "logo": "https://crests.football-data.org/107.png"
-   },
-   "away": {
-    "name": "Juventus",
-    "logo": "https://crests.football-data.org/109.png"
-   },
-   "kickoff": "2026-10-28T19:45:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558554",
-   "competition": "Serie A",
-   "competitionCode": "SA",
-   "home": {
-    "name": "Monza",
-    "logo": "https://crests.football-data.org/5911.png"
-   },
-   "away": {
-    "name": "Napoli",
-    "logo": "https://crests.football-data.org/113.png"
-   },
-   "kickoff": "2026-10-28T19:45:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
   {
    "id": "fd_555062",
    "competition": "Campeonato Brasileiro Série A",
