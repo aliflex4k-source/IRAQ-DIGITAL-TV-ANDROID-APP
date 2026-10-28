@@ -6,20 +6,22 @@
   "or 'patterns' (channel-name regex). Variants such as 4K / FHD / HD / SD are detected automatically.",
   "Stream URLs never go in this file."
  ],
- "competitions": {
-  "PL": [],
-  "PD": [],
-  "SA": [],
-  "BL1": [],
-  "FL1": [],
-  "CL": [],
-  "DED": [],
-  "PPL": [],
-  "ELC": [],
+
+"competitions": {
+  "PL": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
+  "PD": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
+  "SA": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
+  "BL1": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
+  "FL1": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
+  "CL": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4", "bein_sports_5", "bein_sports_6", "bein_sports_7", "bein_sports_8", "bein_sports_9"],
+  "DED": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
+  "PPL": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
+  "ELC": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
   "BSA": [],
-  "EC": [],
-  "WC": []
- },
+  "EC": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4"],
+  "WC": ["bein_sports_1", "bein_sports_2", "bein_sports_3", "bein_sports_4", "bein_sports_5", "bein_sports_6", "bein_sports_7", "bein_sports_8", "bein_sports_9"]
+}
+
  "channels": {
   "bein_sports_1": {
    "name": "beIN SPORTS 1",
