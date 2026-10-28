@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T19:57:05Z",
+ "updatedAt": "2026-10-28T22:51:54Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -68,54 +68,6 @@
   }
  },
  "matches": [
-  {
-   "id": "fd_555062",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Bragantino",
-    "logo": "https://crests.football-data.org/4286.png"
-   },
-   "away": {
-    "name": "Chapecoense",
-    "logo": "https://crests.football-data.org/1772_large.png"
-   },
-   "kickoff": "2026-10-28T22:30:00Z",
-   "status": "TIMED",
-   "channels": []
-  },
-  {
-   "id": "fd_555065",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Fluminense",
-    "logo": "https://crests.football-data.org/1765.png"
-   },
-   "away": {
-    "name": "Internacional",
-    "logo": "https://crests.football-data.org/6684.png"
-   },
-   "kickoff": "2026-10-28T22:30:00Z",
-   "status": "TIMED",
-   "channels": []
-  },
-  {
-   "id": "fd_555068",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Santos",
-    "logo": "https://crests.football-data.org/6685.png"
-   },
-   "away": {
-    "name": "Palmeiras",
-    "logo": "https://crests.football-data.org/1769.png"
-   },
-   "kickoff": "2026-10-28T22:30:00Z",
-   "status": "TIMED",
-   "channels": []
-  },
   {
    "id": "fd_555061",
    "competition": "Campeonato Brasileiro Série A",
