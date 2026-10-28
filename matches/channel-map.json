@@ -1,0 +1,88 @@
+{
+ "_help": [
+  "Broadcasters are NOT provided by football-data.org. Fill 'competitions' with the channel keys",
+  "that carry each competition in your region (codes: PL, PD, SA, BL1, FL1, CL, DED, PPL, ELC, BSA, EC, WC).",
+  "Each channel key is found in the subscriber's own list by 'epgIds' (exact EPG id, most reliable)",
+  "or 'patterns' (channel-name regex). Variants such as 4K / FHD / HD / SD are detected automatically.",
+  "Stream URLs never go in this file."
+ ],
+ "competitions": {
+  "PL": [],
+  "PD": [],
+  "SA": [],
+  "BL1": [],
+  "FL1": [],
+  "CL": [],
+  "DED": [],
+  "PPL": [],
+  "ELC": [],
+  "BSA": [],
+  "EC": [],
+  "WC": []
+ },
+ "channels": {
+  "bein_sports_1": {
+   "name": "beIN SPORTS 1",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*1\\b"
+   ]
+  },
+  "bein_sports_2": {
+   "name": "beIN SPORTS 2",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*2\\b"
+   ]
+  },
+  "bein_sports_3": {
+   "name": "beIN SPORTS 3",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*3\\b"
+   ]
+  },
+  "bein_sports_4": {
+   "name": "beIN SPORTS 4",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*4\\b"
+   ]
+  },
+  "bein_sports_5": {
+   "name": "beIN SPORTS 5",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*5\\b"
+   ]
+  },
+  "bein_sports_6": {
+   "name": "beIN SPORTS 6",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*6\\b"
+   ]
+  },
+  "bein_sports_7": {
+   "name": "beIN SPORTS 7",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*7\\b"
+   ]
+  },
+  "bein_sports_8": {
+   "name": "beIN SPORTS 8",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*8\\b"
+   ]
+  },
+  "bein_sports_9": {
+   "name": "beIN SPORTS 9",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*9\\b"
+   ]
+  }
+ }
+}
