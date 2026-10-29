@@ -1,0 +1,10 @@
+{
+ "_help": "Servers IRAQ DIGITAL TV tries when a subscriber signs in with only a username and password, in this order. The account's own server reported by the panel (server_info) is then used and saved with the profile. Edit freely; no app update is needed.",
+ "servers": [
+  "http://vip.myiraq.org:8080",
+  "http://myhand.org:8080",
+  "http://familyvip.me:8080",
+  "http://familyplus.me:8080",
+  "http://new-pro.tv:8080"
+ ]
+}
