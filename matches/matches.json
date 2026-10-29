@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-29T22:51:30Z",
+ "updatedAt": "2026-10-29T23:47:14Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -163,7 +163,7 @@
     "logo": "https://crests.football-data.org/1783.png"
    },
    "kickoff": "2026-10-29T23:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": []
   },
   {
