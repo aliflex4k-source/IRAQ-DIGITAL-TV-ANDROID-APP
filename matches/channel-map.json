@@ -1,153 +1,317 @@
-
 {
-  "_help": [
-    "Broadcasters are not provided by football-data.org.",
-    "Competition entries define candidate channel keys.",
-    "Channel matching uses epgIds or patterns.",
-    "Stream URLs must not be placed in this file."
+ "_help": [
+  "Which channels broadcast each competition. A match is published even when its list is empty.",
+  "football-data codes: PL, PD, SA, BL1, FL1, CL, DED, PPL, ELC, BSA, EC, WC.",
+  "API-Football codes (only with the API_FOOTBALL_KEY secret): AF + league id, e.g. AF542 Iraq Stars League,",
+  "AF307 Saudi Pro League, AF233 Egyptian Premier League, AF3 Europa League, AF848 Conference League.",
+  "Each channel is found in the subscriber's own list by 'epgIds' (exact EPG id, most reliable)",
+  "or 'patterns' (channel-name regex, English or Arabic). 4K / FHD / HD / SD variants are detected automatically.",
+  "Stream URLs never go in this file."
+ ],
+ "competitions": {
+  "PL": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
   ],
-  "competitions": {
-    "PL": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "PD": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "SA": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "BL1": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "FL1": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "CL": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4",
-      "bein_sports_5",
-      "bein_sports_6",
-      "bein_sports_7",
-      "bein_sports_8",
-      "bein_sports_9"
-    ],
-    "DED": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "PPL": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "ELC": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "BSA": [],
-    "EC": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4"
-    ],
-    "WC": [
-      "bein_sports_1",
-      "bein_sports_2",
-      "bein_sports_3",
-      "bein_sports_4",
-      "bein_sports_5",
-      "bein_sports_6",
-      "bein_sports_7",
-      "bein_sports_8",
-      "bein_sports_9"
-    ]
+  "PD": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ],
+  "SA": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ],
+  "BL1": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ],
+  "FL1": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ],
+  "CL": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4",
+   "bein_sports_5",
+   "bein_sports_6",
+   "bein_sports_7",
+   "bein_sports_8",
+   "bein_sports_9",
+   "bein_sports_max_1",
+   "bein_sports_max_2",
+   "bein_sports_max_3",
+   "bein_sports_max_4",
+   "bein_sports_max_5",
+   "bein_sports_max_6"
+  ],
+  "DED": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ],
+  "PPL": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ],
+  "ELC": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ],
+  "BSA": [],
+  "EC": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ],
+  "WC": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4",
+   "bein_sports_5",
+   "bein_sports_6",
+   "bein_sports_7",
+   "bein_sports_8",
+   "bein_sports_9",
+   "bein_sports_max_1",
+   "bein_sports_max_2",
+   "bein_sports_max_3",
+   "bein_sports_max_4",
+   "bein_sports_max_5",
+   "bein_sports_max_6"
+  ],
+  "AF542": [
+   "iraqia_sports"
+  ],
+  "AF307": [
+   "thmanyah_sports_1",
+   "thmanyah_sports_2",
+   "ssc_1",
+   "ssc_2"
+  ],
+  "AF233": [
+   "on_time_sports_1"
+  ],
+  "AF3": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4",
+   "bein_sports_5",
+   "bein_sports_6",
+   "bein_sports_7",
+   "bein_sports_8",
+   "bein_sports_9",
+   "bein_sports_max_1",
+   "bein_sports_max_2",
+   "bein_sports_max_3",
+   "bein_sports_max_4",
+   "bein_sports_max_5",
+   "bein_sports_max_6"
+  ],
+  "AF848": [
+   "bein_sports_1",
+   "bein_sports_2",
+   "bein_sports_3",
+   "bein_sports_4"
+  ]
+ },
+ "channels": {
+  "bein_sports_1": {
+   "name": "beIN SPORTS 1",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)1\\b",
+    "\\bbe\\s*in\\s*(?!max)1\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)1\\b"
+   ]
   },
-  "channels": {
-    "bein_sports_1": {
-      "name": "beIN SPORTS 1",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*1\\b"
-      ]
-    },
-    "bein_sports_2": {
-      "name": "beIN SPORTS 2",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*2\\b"
-      ]
-    },
-    "bein_sports_3": {
-      "name": "beIN SPORTS 3",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*3\\b"
-      ]
-    },
-    "bein_sports_4": {
-      "name": "beIN SPORTS 4",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*4\\b"
-      ]
-    },
-    "bein_sports_5": {
-      "name": "beIN SPORTS 5",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*5\\b"
-      ]
-    },
-    "bein_sports_6": {
-      "name": "beIN SPORTS 6",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*6\\b"
-      ]
-    },
-    "bein_sports_7": {
-      "name": "beIN SPORTS 7",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*7\\b"
-      ]
-    },
-    "bein_sports_8": {
-      "name": "beIN SPORTS 8",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*8\\b"
-      ]
-    },
-    "bein_sports_9": {
-      "name": "beIN SPORTS 9",
-      "epgIds": [],
-      "patterns": [
-        "\\bbe\\s*in\\s*sports?\\s*9\\b"
-      ]
-    }
+  "bein_sports_2": {
+   "name": "beIN SPORTS 2",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)2\\b",
+    "\\bbe\\s*in\\s*(?!max)2\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)2\\b"
+   ]
+  },
+  "bein_sports_3": {
+   "name": "beIN SPORTS 3",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)3\\b",
+    "\\bbe\\s*in\\s*(?!max)3\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)3\\b"
+   ]
+  },
+  "bein_sports_4": {
+   "name": "beIN SPORTS 4",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)4\\b",
+    "\\bbe\\s*in\\s*(?!max)4\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)4\\b"
+   ]
+  },
+  "bein_sports_5": {
+   "name": "beIN SPORTS 5",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)5\\b",
+    "\\bbe\\s*in\\s*(?!max)5\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)5\\b"
+   ]
+  },
+  "bein_sports_6": {
+   "name": "beIN SPORTS 6",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)6\\b",
+    "\\bbe\\s*in\\s*(?!max)6\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)6\\b"
+   ]
+  },
+  "bein_sports_7": {
+   "name": "beIN SPORTS 7",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)7\\b",
+    "\\bbe\\s*in\\s*(?!max)7\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)7\\b"
+   ]
+  },
+  "bein_sports_8": {
+   "name": "beIN SPORTS 8",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)8\\b",
+    "\\bbe\\s*in\\s*(?!max)8\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)8\\b"
+   ]
+  },
+  "bein_sports_9": {
+   "name": "beIN SPORTS 9",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)9\\b",
+    "\\bbe\\s*in\\s*(?!max)9\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)9\\b"
+   ]
+  },
+  "bein_sports_max_1": {
+   "name": "beIN SPORTS MAX 1",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*1\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*1\\b"
+   ]
+  },
+  "bein_sports_max_2": {
+   "name": "beIN SPORTS MAX 2",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*2\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*2\\b"
+   ]
+  },
+  "bein_sports_max_3": {
+   "name": "beIN SPORTS MAX 3",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*3\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*3\\b"
+   ]
+  },
+  "bein_sports_max_4": {
+   "name": "beIN SPORTS MAX 4",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*4\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*4\\b"
+   ]
+  },
+  "bein_sports_max_5": {
+   "name": "beIN SPORTS MAX 5",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*5\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*5\\b"
+   ]
+  },
+  "bein_sports_max_6": {
+   "name": "beIN SPORTS MAX 6",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*6\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*6\\b"
+   ]
+  },
+  "iraqia_sports": {
+   "name": "Al Iraqiya Sports",
+   "epgIds": [],
+   "patterns": [
+    "\\biraqia\\s*sports?\\b",
+    "\\biraqiya\\s*sports?\\b",
+    "العراقية\\s*الرياضية"
+   ]
+  },
+  "on_time_sports_1": {
+   "name": "ON Time Sports 1",
+   "epgIds": [],
+   "patterns": [
+    "\\bon\\s*time\\s*sports?\\s*1\\b",
+    "اون\\s*تايم\\s*سبورت?\\s*1\\b"
+   ]
+  },
+  "ssc_1": {
+   "name": "SSC 1",
+   "epgIds": [],
+   "patterns": [
+    "\\bssc\\s*1\\b",
+    "\\bssc\\s*sports?\\s*1\\b"
+   ]
+  },
+  "ssc_2": {
+   "name": "SSC 2",
+   "epgIds": [],
+   "patterns": [
+    "\\bssc\\s*2\\b",
+    "\\bssc\\s*sports?\\s*2\\b"
+   ]
+  },
+  "thmanyah_sports_1": {
+   "name": "Thmanyah Sports 1",
+   "epgIds": [],
+   "patterns": [
+    "\\bthmanyah\\s*(sports?)?\\s*1\\b",
+    "ثمانية\\s*(الرياضية)?\\s*1\\b"
+   ]
+  },
+  "thmanyah_sports_2": {
+   "name": "Thmanyah Sports 2",
+   "epgIds": [],
+   "patterns": [
+    "\\bthmanyah\\s*(sports?)?\\s*2\\b",
+    "ثمانية\\s*(الرياضية)?\\s*2\\b"
+   ]
   }
+ }
 }

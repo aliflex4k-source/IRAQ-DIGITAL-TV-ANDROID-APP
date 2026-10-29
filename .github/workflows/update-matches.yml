@@ -1,9 +1,10 @@
 name: Update match schedule
 
-# Hourly (GitHub may start scheduled runs late under load) and manually for testing.
+# Twice an hour so live / finished states stay current (GitHub may start scheduled runs late
+# under load), and manually from the Actions tab (Run workflow) for testing.
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17,47 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,9 +25,15 @@ jobs:
         with:
           python-version: "3.13"
 
-      - name: Build matches.json from football-data.org
+      # The script's own tests; a failing test stops the run before the file is touched.
+      - name: Test update script
+        run: python -m unittest discover -s scripts
+
+      - name: Build matches.json
         env:
           FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+          # Optional second source for leagues/cups football-data's plan lacks; unset = skipped.
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python scripts/update_matches.py
 
       # Commit only when the schedule really changed (the script leaves the file untouched otherwise).
