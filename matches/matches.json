@@ -1,73 +1,219 @@
 {
  "version": 1,
- "updatedAt": "2026-10-29T01:12:41Z",
+ "updatedAt": "2026-10-29T10:52:28Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
    "name": "beIN SPORTS 1",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*1\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)1\\b",
+    "\\bbe\\s*in\\s*(?!max)1\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)1\\b"
    ]
   },
   "bein_sports_2": {
    "name": "beIN SPORTS 2",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*2\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)2\\b",
+    "\\bbe\\s*in\\s*(?!max)2\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)2\\b"
    ]
   },
   "bein_sports_3": {
    "name": "beIN SPORTS 3",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*3\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)3\\b",
+    "\\bbe\\s*in\\s*(?!max)3\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)3\\b"
    ]
   },
   "bein_sports_4": {
    "name": "beIN SPORTS 4",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*4\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)4\\b",
+    "\\bbe\\s*in\\s*(?!max)4\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)4\\b"
    ]
   },
   "bein_sports_5": {
    "name": "beIN SPORTS 5",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*5\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)5\\b",
+    "\\bbe\\s*in\\s*(?!max)5\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)5\\b"
    ]
   },
   "bein_sports_6": {
    "name": "beIN SPORTS 6",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*6\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)6\\b",
+    "\\bbe\\s*in\\s*(?!max)6\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)6\\b"
    ]
   },
   "bein_sports_7": {
    "name": "beIN SPORTS 7",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*7\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)7\\b",
+    "\\bbe\\s*in\\s*(?!max)7\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)7\\b"
    ]
   },
   "bein_sports_8": {
    "name": "beIN SPORTS 8",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*8\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)8\\b",
+    "\\bbe\\s*in\\s*(?!max)8\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)8\\b"
    ]
   },
   "bein_sports_9": {
    "name": "beIN SPORTS 9",
    "epgIds": [],
    "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*9\\b"
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)9\\b",
+    "\\bbe\\s*in\\s*(?!max)9\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)9\\b"
+   ]
+  },
+  "bein_sports_max_1": {
+   "name": "beIN SPORTS MAX 1",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*1\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*1\\b"
+   ]
+  },
+  "bein_sports_max_2": {
+   "name": "beIN SPORTS MAX 2",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*2\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*2\\b"
+   ]
+  },
+  "bein_sports_max_3": {
+   "name": "beIN SPORTS MAX 3",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*3\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*3\\b"
+   ]
+  },
+  "bein_sports_max_4": {
+   "name": "beIN SPORTS MAX 4",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*4\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*4\\b"
+   ]
+  },
+  "bein_sports_max_5": {
+   "name": "beIN SPORTS MAX 5",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*5\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*5\\b"
+   ]
+  },
+  "bein_sports_max_6": {
+   "name": "beIN SPORTS MAX 6",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*6\\b",
+    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*6\\b"
    ]
   }
  },
  "matches": [
+  {
+   "id": "fd_555062",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Bragantino",
+    "logo": "https://crests.football-data.org/4286.png"
+   },
+   "away": {
+    "name": "Chapecoense",
+    "logo": "https://crests.football-data.org/1772_large.png"
+   },
+   "kickoff": "2026-10-28T22:30:00Z",
+   "status": "FINISHED",
+   "channels": []
+  },
+  {
+   "id": "fd_555065",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Fluminense",
+    "logo": "https://crests.football-data.org/1765.png"
+   },
+   "away": {
+    "name": "Internacional",
+    "logo": "https://crests.football-data.org/6684.png"
+   },
+   "kickoff": "2026-10-28T22:30:00Z",
+   "status": "FINISHED",
+   "channels": []
+  },
+  {
+   "id": "fd_555068",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Santos",
+    "logo": "https://crests.football-data.org/6685.png"
+   },
+   "away": {
+    "name": "Palmeiras",
+    "logo": "https://crests.football-data.org/1769.png"
+   },
+   "kickoff": "2026-10-28T22:30:00Z",
+   "status": "FINISHED",
+   "channels": []
+  },
+  {
+   "id": "fd_555061",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Bahia",
+    "logo": "https://crests.football-data.org/1777.png"
+   },
+   "away": {
+    "name": "São Paulo",
+    "logo": "https://crests.football-data.org/1776.png"
+   },
+   "kickoff": "2026-10-29T00:30:00Z",
+   "status": "FINISHED",
+   "channels": []
+  },
+  {
+   "id": "fd_555067",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Clube do Remo",
+    "logo": "https://crests.football-data.org/4287.png"
+   },
+   "away": {
+    "name": "Botafogo",
+    "logo": "https://crests.football-data.org/1770.png"
+   },
+   "kickoff": "2026-10-29T00:30:00Z",
+   "status": "FINISHED",
+   "channels": []
+  },
   {
    "id": "fd_558558",
    "competition": "Serie A",
@@ -1867,7 +2013,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -1893,7 +2045,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2108,7 +2266,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2134,7 +2298,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2160,7 +2330,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2186,7 +2362,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2212,7 +2394,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2238,7 +2426,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2264,7 +2458,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2322,7 +2522,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2348,7 +2554,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2437,7 +2649,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2463,7 +2681,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2489,7 +2713,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2515,7 +2745,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2541,7 +2777,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2567,7 +2809,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
@@ -2593,7 +2841,13 @@
     "bein_sports_6",
     "bein_sports_7",
     "bein_sports_8",
-    "bein_sports_9"
+    "bein_sports_9",
+    "bein_sports_max_1",
+    "bein_sports_max_2",
+    "bein_sports_max_3",
+    "bein_sports_max_4",
+    "bein_sports_max_5",
+    "bein_sports_max_6"
    ]
   },
   {
