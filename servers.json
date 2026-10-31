@@ -1,7 +1,0 @@
-{
- "_help": "Servers IRAQ DIGITAL TV tries when a subscriber signs in with only a username and password, in this order. The account's own server reported by the panel (server_info) is then used and saved with the profile. Edit freely; no app update is needed.",
- "servers": [
-  "http://myhand.org:8080",
-  "http://amlive.cc:80"
- ]
-}
