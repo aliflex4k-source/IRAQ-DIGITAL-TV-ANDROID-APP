@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-01T16:17:57Z",
+ "updatedAt": "2026-11-01T17:14:35Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -315,7 +315,7 @@
     "logo": "https://crests.football-data.org/1.png"
    },
    "kickoff": "2026-11-01T14:30:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -399,7 +399,7 @@
     "logo": "https://crests.football-data.org/532.png"
    },
    "kickoff": "2026-11-01T16:15:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -420,7 +420,7 @@
     "logo": "https://crests.football-data.org/548.png"
    },
    "kickoff": "2026-11-01T16:15:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -441,7 +441,7 @@
     "logo": "https://crests.football-data.org/57.png"
    },
    "kickoff": "2026-11-01T16:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -462,7 +462,7 @@
     "logo": "https://crests.football-data.org/7.png"
    },
    "kickoff": "2026-11-01T16:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -483,7 +483,7 @@
     "logo": "https://crests.football-data.org/107.png"
    },
    "kickoff": "2026-11-01T17:00:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
