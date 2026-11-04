@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T20:05:22Z",
+ "updatedAt": "2026-11-04T21:00:14Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -38,485 +38,9 @@
     "\\bbe\\s*in\\s*(?!max)4\\b",
     "بي\\s*ان\\s*سبورت?\\s*(?!max)4\\b"
    ]
-  },
-  "bein_sports_5": {
-   "name": "beIN SPORTS 5",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*(?!max)5\\b",
-    "\\bbe\\s*in\\s*(?!max)5\\b",
-    "بي\\s*ان\\s*سبورت?\\s*(?!max)5\\b"
-   ]
-  },
-  "bein_sports_6": {
-   "name": "beIN SPORTS 6",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*(?!max)6\\b",
-    "\\bbe\\s*in\\s*(?!max)6\\b",
-    "بي\\s*ان\\s*سبورت?\\s*(?!max)6\\b"
-   ]
-  },
-  "bein_sports_7": {
-   "name": "beIN SPORTS 7",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*(?!max)7\\b",
-    "\\bbe\\s*in\\s*(?!max)7\\b",
-    "بي\\s*ان\\s*سبورت?\\s*(?!max)7\\b"
-   ]
-  },
-  "bein_sports_8": {
-   "name": "beIN SPORTS 8",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*(?!max)8\\b",
-    "\\bbe\\s*in\\s*(?!max)8\\b",
-    "بي\\s*ان\\s*سبورت?\\s*(?!max)8\\b"
-   ]
-  },
-  "bein_sports_9": {
-   "name": "beIN SPORTS 9",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*sports?\\s*(?!max)9\\b",
-    "\\bbe\\s*in\\s*(?!max)9\\b",
-    "بي\\s*ان\\s*سبورت?\\s*(?!max)9\\b"
-   ]
-  },
-  "bein_sports_max_1": {
-   "name": "beIN SPORTS MAX 1",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*1\\b",
-    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*1\\b"
-   ]
-  },
-  "bein_sports_max_2": {
-   "name": "beIN SPORTS MAX 2",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*2\\b",
-    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*2\\b"
-   ]
-  },
-  "bein_sports_max_3": {
-   "name": "beIN SPORTS MAX 3",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*3\\b",
-    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*3\\b"
-   ]
-  },
-  "bein_sports_max_4": {
-   "name": "beIN SPORTS MAX 4",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*4\\b",
-    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*4\\b"
-   ]
-  },
-  "bein_sports_max_5": {
-   "name": "beIN SPORTS MAX 5",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*5\\b",
-    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*5\\b"
-   ]
-  },
-  "bein_sports_max_6": {
-   "name": "beIN SPORTS MAX 6",
-   "epgIds": [],
-   "patterns": [
-    "\\bbe\\s*in\\s*(sports?\\s*)?max\\s*6\\b",
-    "بي\\s*ان\\s*سبورت?\\s*ماكس\\s*6\\b"
-   ]
   }
  },
  "matches": [
-  {
-   "id": "fd_555073",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Chapecoense",
-    "logo": "https://crests.football-data.org/1772_large.png"
-   },
-   "away": {
-    "name": "Mirassol",
-    "logo": "https://crests.football-data.org/4364.png"
-   },
-   "kickoff": "2026-11-03T22:30:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
-  {
-   "id": "fd_555076",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Internacional",
-    "logo": "https://crests.football-data.org/6684.png"
-   },
-   "away": {
-    "name": "Coritiba",
-    "logo": "https://crests.football-data.org/4241.png"
-   },
-   "kickoff": "2026-11-04T00:30:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
-  {
-   "id": "fd_575386",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "PAE AEK",
-    "logo": "https://crests.football-data.org/1899.png"
-   },
-   "away": {
-    "name": "Real Madrid",
-    "logo": "https://crests.football-data.org/86.png"
-   },
-   "kickoff": "2026-11-04T17:45:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
-  {
-   "id": "fd_575387",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "Fenerbahçe",
-    "logo": "https://crests.football-data.org/613.png"
-   },
-   "away": {
-    "name": "Liverpool",
-    "logo": "https://crests.football-data.org/64.png"
-   },
-   "kickoff": "2026-11-04T17:45:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
-  {
-   "id": "fd_561925",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Cardiff",
-    "logo": "https://crests.football-data.org/715.png"
-   },
-   "away": {
-    "name": "West Ham",
-    "logo": "https://crests.football-data.org/563.png"
-   },
-   "kickoff": "2026-11-04T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561927",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Wrexham",
-    "logo": "https://crests.football-data.org/404.png"
-   },
-   "away": {
-    "name": "Middlesbrough",
-    "logo": "https://crests.football-data.org/343.png"
-   },
-   "kickoff": "2026-11-04T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561926",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Bristol City",
-    "logo": "https://crests.football-data.org/387.png"
-   },
-   "away": {
-    "name": "Wolverhampton",
-    "logo": "https://crests.football-data.org/76.png"
-   },
-   "kickoff": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_575388",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "RB Leipzig",
-    "logo": "https://crests.football-data.org/721.png"
-   },
-   "away": {
-    "name": "Man City",
-    "logo": "https://crests.football-data.org/65.png"
-   },
-   "kickoff": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
-  {
-   "id": "fd_575389",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "Slavia Praha",
-    "logo": "https://crests.football-data.org/930.png"
-   },
-   "away": {
-    "name": "Arsenal",
-    "logo": "https://crests.football-data.org/57.png"
-   },
-   "kickoff": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
-  {
-   "id": "fd_575390",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "PSV",
-    "logo": "https://crests.football-data.org/674.png"
-   },
-   "away": {
-    "name": "Club Brugge",
-    "logo": "https://crests.football-data.org/851.png"
-   },
-   "kickoff": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
-  {
-   "id": "fd_575391",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "Dortmund",
-    "logo": "https://crests.football-data.org/4.png"
-   },
-   "away": {
-    "name": "Real Betis",
-    "logo": "https://crests.football-data.org/90.png"
-   },
-   "kickoff": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
-  {
-   "id": "fd_575392",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "Porto",
-    "logo": "https://crests.football-data.org/503.png"
-   },
-   "away": {
-    "name": "Napoli",
-    "logo": "https://crests.football-data.org/113.png"
-   },
-   "kickoff": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
-  {
-   "id": "fd_575393",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "RC Lens",
-    "logo": "https://crests.football-data.org/546.png"
-   },
-   "away": {
-    "name": "Como 1907",
-    "logo": "https://crests.football-data.org/7397.png"
-   },
-   "kickoff": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
-  {
-   "id": "fd_575394",
-   "competition": "UEFA Champions League",
-   "competitionCode": "CL",
-   "home": {
-    "name": "Viking",
-    "logo": "https://crests.football-data.org/5720.png"
-   },
-   "away": {
-    "name": "Sabah FK",
-    "logo": "https://crests.football-data.org/10233.png"
-   },
-   "kickoff": "2026-11-04T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4",
-    "bein_sports_5",
-    "bein_sports_6",
-    "bein_sports_7",
-    "bein_sports_8",
-    "bein_sports_9",
-    "bein_sports_max_1",
-    "bein_sports_max_2",
-    "bein_sports_max_3",
-    "bein_sports_max_4",
-    "bein_sports_max_5",
-    "bein_sports_max_6"
-   ]
-  },
   {
    "id": "fd_555070",
    "competition": "Campeonato Brasileiro Série A",
@@ -1302,6 +826,27 @@
    ]
   },
   {
+   "id": "fd_559637",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Auxerre",
+    "logo": "https://crests.football-data.org/519.png"
+   },
+   "away": {
+    "name": "Paris FC",
+    "logo": "https://crests.football-data.org/1045.png"
+   },
+   "kickoff": "2026-11-07T16:15:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
    "id": "fd_558535",
    "competition": "Serie A",
    "competitionCode": "SA",
@@ -1407,27 +952,6 @@
    ]
   },
   {
-   "id": "fd_559637",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "Auxerre",
-    "logo": "https://crests.football-data.org/519.png"
-   },
-   "away": {
-    "name": "Paris FC",
-    "logo": "https://crests.football-data.org/1045.png"
-   },
-   "kickoff": "2026-11-07T18:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
    "id": "fd_567347",
    "competition": "Primeira Liga",
    "competitionCode": "PPL",
@@ -1459,6 +983,27 @@
    "away": {
     "name": "Sassuolo",
     "logo": "https://crests.football-data.org/471.png"
+   },
+   "kickoff": "2026-11-07T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559635",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "PSG",
+    "logo": "https://crests.football-data.org/524.png"
+   },
+   "away": {
+    "name": "Troyes",
+    "logo": "https://crests.football-data.org/531.png"
    },
    "kickoff": "2026-11-07T19:45:00Z",
    "status": "TIMED",
@@ -1503,27 +1048,6 @@
     "logo": "https://crests.football-data.org/86.png"
    },
    "kickoff": "2026-11-07T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_559635",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "PSG",
-    "logo": "https://crests.football-data.org/524.png"
-   },
-   "away": {
-    "name": "Troyes",
-    "logo": "https://crests.football-data.org/531.png"
-   },
-   "kickoff": "2026-11-07T20:05:00Z",
    "status": "TIMED",
    "channels": [
     "bein_sports_1",
