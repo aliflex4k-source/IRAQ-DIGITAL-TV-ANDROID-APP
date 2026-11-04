@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T17:59:10Z",
+ "updatedAt": "2026-11-04T20:05:22Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -179,7 +179,7 @@
     "logo": "https://crests.football-data.org/86.png"
    },
    "kickoff": "2026-11-04T17:45:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -211,7 +211,7 @@
     "logo": "https://crests.football-data.org/64.png"
    },
    "kickoff": "2026-11-04T17:45:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -243,7 +243,7 @@
     "logo": "https://crests.football-data.org/563.png"
    },
    "kickoff": "2026-11-04T19:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -264,7 +264,7 @@
     "logo": "https://crests.football-data.org/343.png"
    },
    "kickoff": "2026-11-04T19:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -1302,27 +1302,6 @@
    ]
   },
   {
-   "id": "fd_559637",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "Auxerre",
-    "logo": "https://crests.football-data.org/519.png"
-   },
-   "away": {
-    "name": "Paris FC",
-    "logo": "https://crests.football-data.org/1045.png"
-   },
-   "kickoff": "2026-11-07T16:15:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
    "id": "fd_558535",
    "competition": "Serie A",
    "competitionCode": "SA",
@@ -1428,6 +1407,27 @@
    ]
   },
   {
+   "id": "fd_559637",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Auxerre",
+    "logo": "https://crests.football-data.org/519.png"
+   },
+   "away": {
+    "name": "Paris FC",
+    "logo": "https://crests.football-data.org/1045.png"
+   },
+   "kickoff": "2026-11-07T18:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
    "id": "fd_567347",
    "competition": "Primeira Liga",
    "competitionCode": "PPL",
@@ -1459,27 +1459,6 @@
    "away": {
     "name": "Sassuolo",
     "logo": "https://crests.football-data.org/471.png"
-   },
-   "kickoff": "2026-11-07T19:45:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_559635",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "PSG",
-    "logo": "https://crests.football-data.org/524.png"
-   },
-   "away": {
-    "name": "Troyes",
-    "logo": "https://crests.football-data.org/531.png"
    },
    "kickoff": "2026-11-07T19:45:00Z",
    "status": "TIMED",
@@ -1524,6 +1503,27 @@
     "logo": "https://crests.football-data.org/86.png"
    },
    "kickoff": "2026-11-07T20:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559635",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "PSG",
+    "logo": "https://crests.football-data.org/524.png"
+   },
+   "away": {
+    "name": "Troyes",
+    "logo": "https://crests.football-data.org/531.png"
+   },
+   "kickoff": "2026-11-07T20:05:00Z",
    "status": "TIMED",
    "channels": [
     "bein_sports_1",
