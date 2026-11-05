@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T11:17:03Z",
+ "updatedAt": "2026-11-05T21:25:51Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -41,70 +41,6 @@
   }
  },
  "matches": [
-  {
-   "id": "fd_555070",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Paranaense",
-    "logo": "https://crests.football-data.org/1768.png"
-   },
-   "away": {
-    "name": "Vasco da Gama",
-    "logo": "https://crests.football-data.org/1780.png"
-   },
-   "kickoff": "2026-11-04T22:30:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
-  {
-   "id": "fd_555075",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Flamengo",
-    "logo": "https://crests.football-data.org/1783.png"
-   },
-   "away": {
-    "name": "Grêmio",
-    "logo": "https://crests.football-data.org/1767.png"
-   },
-   "kickoff": "2026-11-04T22:30:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
-  {
-   "id": "fd_555071",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Botafogo",
-    "logo": "https://crests.football-data.org/1770.png"
-   },
-   "away": {
-    "name": "Mineiro",
-    "logo": "https://crests.football-data.org/1766.png"
-   },
-   "kickoff": "2026-11-05T00:30:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
-  {
-   "id": "fd_555078",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "São Paulo",
-    "logo": "https://crests.football-data.org/1776.png"
-   },
-   "away": {
-    "name": "Corinthians",
-    "logo": "https://crests.football-data.org/1779.png"
-   },
-   "kickoff": "2026-11-05T00:30:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
   {
    "id": "fd_555077",
    "competition": "Campeonato Brasileiro Série A",
