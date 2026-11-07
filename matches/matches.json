@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-07T21:45:28Z",
+ "updatedAt": "2026-11-07T23:48:36Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -41,6 +41,27 @@
   }
  },
  "matches": [
+  {
+   "id": "fd_567348",
+   "competition": "Primeira Liga",
+   "competitionCode": "PPL",
+   "home": {
+    "name": "Estoril Praia",
+    "logo": "https://crests.football-data.org/582.png"
+   },
+   "away": {
+    "name": "Marítimo",
+    "logo": "https://crests.football-data.org/5575.png"
+   },
+   "kickoff": "2026-11-08T00:00:00Z",
+   "status": "POSTPONED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
   {
    "id": "fd_558840",
    "competition": "Eredivisie",
@@ -315,16 +336,16 @@
    ]
   },
   {
-   "id": "fd_567348",
+   "id": "fd_567351",
    "competition": "Primeira Liga",
    "competitionCode": "PPL",
    "home": {
-    "name": "Estoril Praia",
-    "logo": "https://crests.football-data.org/582.png"
+    "name": "Santa Clara",
+    "logo": "https://crests.football-data.org/5530.png"
    },
    "away": {
-    "name": "Marítimo",
-    "logo": "https://crests.football-data.org/5575.png"
+    "name": "Gil Vicente",
+    "logo": "https://crests.football-data.org/5533.png"
    },
    "kickoff": "2026-11-08T15:30:00Z",
    "status": "TIMED",
@@ -336,16 +357,16 @@
    ]
   },
   {
-   "id": "fd_567351",
+   "id": "fd_567352",
    "competition": "Primeira Liga",
    "competitionCode": "PPL",
    "home": {
-    "name": "Santa Clara",
-    "logo": "https://crests.football-data.org/5530.png"
+    "name": "CD Nacional",
+    "logo": "https://crests.football-data.org/5529.png"
    },
    "away": {
-    "name": "Gil Vicente",
-    "logo": "https://crests.football-data.org/5533.png"
+    "name": "Acad. Viseu",
+    "logo": "https://crests.football-data.org/5527.png"
    },
    "kickoff": "2026-11-08T15:30:00Z",
    "status": "TIMED",
