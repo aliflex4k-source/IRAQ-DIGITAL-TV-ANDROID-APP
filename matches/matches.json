@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-08T15:46:00Z",
+ "updatedAt": "2026-11-08T16:20:38Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -159,7 +159,7 @@
     "logo": "https://crests.football-data.org/98.png"
    },
    "kickoff": "2026-11-08T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -180,7 +180,7 @@
     "logo": "https://crests.football-data.org/102.png"
    },
    "kickoff": "2026-11-08T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -201,7 +201,7 @@
     "logo": "https://crests.football-data.org/521.png"
    },
    "kickoff": "2026-11-08T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -222,7 +222,7 @@
     "logo": "https://crests.football-data.org/64.png"
    },
    "kickoff": "2026-11-08T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -243,7 +243,7 @@
     "logo": "https://crests.football-data.org/61.png"
    },
    "kickoff": "2026-11-08T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -264,7 +264,7 @@
     "logo": "https://crests.football-data.org/bournemouth.png"
    },
    "kickoff": "2026-11-08T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -285,7 +285,7 @@
     "logo": "https://crests.football-data.org/402.png"
    },
    "kickoff": "2026-11-08T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -369,7 +369,7 @@
     "logo": "https://crests.football-data.org/5527.png"
    },
    "kickoff": "2026-11-08T15:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -390,7 +390,7 @@
     "logo": "https://crests.football-data.org/677.png"
    },
    "kickoff": "2026-11-08T15:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -411,7 +411,7 @@
     "logo": "https://crests.football-data.org/674.png"
    },
    "kickoff": "2026-11-08T15:45:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
