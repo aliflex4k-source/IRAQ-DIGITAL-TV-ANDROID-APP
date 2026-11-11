@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-08T21:45:38Z",
+ "updatedAt": "2026-11-11T21:44:06Z",
  "source": "football-data.org",
  "channels": {},
  "matches": [
@@ -33,6 +33,70 @@
     "logo": "https://crests.football-data.org/1780.png"
    },
    "kickoff": "2026-11-14T23:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555081",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Coritiba",
+    "logo": "https://crests.football-data.org/4241.png"
+   },
+   "away": {
+    "name": "Santos",
+    "logo": "https://crests.football-data.org/6685.png"
+   },
+   "kickoff": "2026-11-18T22:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555086",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Clube do Remo",
+    "logo": "https://crests.football-data.org/4287.png"
+   },
+   "away": {
+    "name": "Chapecoense",
+    "logo": "https://crests.football-data.org/1772_large.png"
+   },
+   "kickoff": "2026-11-18T23:00:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555082",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Cruzeiro",
+    "logo": "https://crests.football-data.org/1771.png"
+   },
+   "away": {
+    "name": "Palmeiras",
+    "logo": "https://crests.football-data.org/1769.png"
+   },
+   "kickoff": "2026-11-18T23:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555083",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Flamengo",
+    "logo": "https://crests.football-data.org/1783.png"
+   },
+   "away": {
+    "name": "Paranaense",
+    "logo": "https://crests.football-data.org/1768.png"
+   },
+   "kickoff": "2026-11-18T23:30:00Z",
    "status": "TIMED",
    "channels": []
   }
