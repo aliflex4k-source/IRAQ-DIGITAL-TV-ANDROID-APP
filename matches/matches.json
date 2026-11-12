@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-11T21:44:06Z",
+ "updatedAt": "2026-11-12T20:02:20Z",
  "source": "football-data.org",
  "channels": {},
  "matches": [
@@ -33,7 +33,7 @@
     "logo": "https://crests.football-data.org/1780.png"
    },
    "kickoff": "2026-11-14T23:30:00Z",
-   "status": "TIMED",
+   "status": "SCHEDULED",
    "channels": []
   },
   {
