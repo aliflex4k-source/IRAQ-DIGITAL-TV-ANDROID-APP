@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-12T20:58:26Z",
+ "updatedAt": "2026-11-12T21:55:31Z",
  "source": "football-data.org",
  "channels": {},
  "matches": [
@@ -97,6 +97,70 @@
     "logo": "https://crests.football-data.org/1768.png"
    },
    "kickoff": "2026-11-18T23:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555080",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Corinthians",
+    "logo": "https://crests.football-data.org/1779.png"
+   },
+   "away": {
+    "name": "Botafogo",
+    "logo": "https://crests.football-data.org/1770.png"
+   },
+   "kickoff": "2026-11-19T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555084",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Grêmio",
+    "logo": "https://crests.football-data.org/1767.png"
+   },
+   "away": {
+    "name": "Bahia",
+    "logo": "https://crests.football-data.org/1777.png"
+   },
+   "kickoff": "2026-11-19T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555088",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Vasco da Gama",
+    "logo": "https://crests.football-data.org/1780.png"
+   },
+   "away": {
+    "name": "Internacional",
+    "logo": "https://crests.football-data.org/6684.png"
+   },
+   "kickoff": "2026-11-19T22:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555089",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Vitória",
+    "logo": "https://crests.football-data.org/1782.png"
+   },
+   "away": {
+    "name": "Bragantino",
+    "logo": "https://crests.football-data.org/4286.png"
+   },
+   "kickoff": "2026-11-19T22:30:00Z",
    "status": "TIMED",
    "channels": []
   }
