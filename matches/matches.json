@@ -1,8 +1,45 @@
 {
  "version": 1,
- "updatedAt": "2026-11-12T21:55:31Z",
+ "updatedAt": "2026-11-13T21:30:01Z",
  "source": "football-data.org",
- "channels": {},
+ "channels": {
+  "bein_sports_1": {
+   "name": "beIN SPORTS 1",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)1\\b",
+    "\\bbe\\s*in\\s*(?!max)1\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)1\\b"
+   ]
+  },
+  "bein_sports_2": {
+   "name": "beIN SPORTS 2",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)2\\b",
+    "\\bbe\\s*in\\s*(?!max)2\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)2\\b"
+   ]
+  },
+  "bein_sports_3": {
+   "name": "beIN SPORTS 3",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)3\\b",
+    "\\bbe\\s*in\\s*(?!max)3\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)3\\b"
+   ]
+  },
+  "bein_sports_4": {
+   "name": "beIN SPORTS 4",
+   "epgIds": [],
+   "patterns": [
+    "\\bbe\\s*in\\s*sports?\\s*(?!max)4\\b",
+    "\\bbe\\s*in\\s*(?!max)4\\b",
+    "بي\\s*ان\\s*سبورت?\\s*(?!max)4\\b"
+   ]
+  }
+ },
  "matches": [
   {
    "id": "fd_555085",
@@ -163,6 +200,85 @@
    "kickoff": "2026-11-19T22:30:00Z",
    "status": "TIMED",
    "channels": []
+  },
+  {
+   "id": "fd_555087",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "São Paulo",
+    "logo": "https://crests.football-data.org/1776.png"
+   },
+   "away": {
+    "name": "Fluminense",
+    "logo": "https://crests.football-data.org/1765.png"
+   },
+   "kickoff": "2026-11-20T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_565859",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "Bayern",
+    "logo": "https://crests.football-data.org/5.png"
+   },
+   "away": {
+    "name": "1. FC Köln",
+    "logo": "https://crests.football-data.org/1.png"
+   },
+   "kickoff": "2026-11-20T19:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559622",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Troyes",
+    "logo": "https://crests.football-data.org/531.png"
+   },
+   "away": {
+    "name": "Le Havre",
+    "logo": "https://crests.football-data.org/533.png"
+   },
+   "kickoff": "2026-11-20T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564748",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Athletic",
+    "logo": "https://crests.football-data.org/77.png"
+   },
+   "away": {
+    "name": "Espanyol",
+    "logo": "https://crests.football-data.org/80.png"
+   },
+   "kickoff": "2026-11-20T20:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
   }
  ]
 }
