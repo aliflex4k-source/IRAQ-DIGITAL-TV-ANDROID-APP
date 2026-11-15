@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-15T15:50:11Z",
+ "updatedAt": "2026-11-15T21:19:39Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -41,38 +41,6 @@
   }
  },
  "matches": [
-  {
-   "id": "fd_555085",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Mirassol",
-    "logo": "https://crests.football-data.org/4364.png"
-   },
-   "away": {
-    "name": "Mineiro",
-    "logo": "https://crests.football-data.org/1766.png"
-   },
-   "kickoff": "2026-11-14T21:30:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
-  {
-   "id": "fd_554942",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Chapecoense",
-    "logo": "https://crests.football-data.org/1772_large.png"
-   },
-   "away": {
-    "name": "Vasco da Gama",
-    "logo": "https://crests.football-data.org/1780.png"
-   },
-   "kickoff": "2026-11-14T23:30:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
   {
    "id": "fd_555081",
    "competition": "Campeonato Brasileiro Série A",
@@ -1207,6 +1175,495 @@
     "logo": "https://crests.football-data.org/1771.png"
    },
    "kickoff": "2026-11-22T00:00:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_558828",
+   "competition": "Eredivisie",
+   "competitionCode": "DED",
+   "home": {
+    "name": "Twente",
+    "logo": "https://crests.football-data.org/666.png"
+   },
+   "away": {
+    "name": "Willem II",
+    "logo": "https://crests.football-data.org/672.png"
+   },
+   "kickoff": "2026-11-22T11:15:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558521",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Juventus",
+    "logo": "https://crests.football-data.org/109.png"
+   },
+   "away": {
+    "name": "Venezia FC",
+    "logo": "https://crests.football-data.org/454.png"
+   },
+   "kickoff": "2026-11-22T11:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561947",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Burnley",
+    "logo": "https://crests.football-data.org/328.png"
+   },
+   "away": {
+    "name": "Blackburn",
+    "logo": "https://crests.football-data.org/59.png"
+   },
+   "kickoff": "2026-11-22T12:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564749",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Barça",
+    "logo": "https://crests.football-data.org/81.png"
+   },
+   "away": {
+    "name": "Villarreal",
+    "logo": "https://crests.football-data.org/94.png"
+   },
+   "kickoff": "2026-11-22T13:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558830",
+   "competition": "Eredivisie",
+   "competitionCode": "DED",
+   "home": {
+    "name": "Sparta",
+    "logo": "https://crests.football-data.org/6806.png"
+   },
+   "away": {
+    "name": "AZ",
+    "logo": "https://crests.football-data.org/682.png"
+   },
+   "kickoff": "2026-11-22T13:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558836",
+   "competition": "Eredivisie",
+   "competitionCode": "DED",
+   "home": {
+    "name": "Ajax",
+    "logo": "https://crests.football-data.org/678.png"
+   },
+   "away": {
+    "name": "Den Haag",
+    "logo": "https://crests.football-data.org/680.png"
+   },
+   "kickoff": "2026-11-22T13:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558522",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Bologna",
+    "logo": "https://crests.football-data.org/103.png"
+   },
+   "away": {
+    "name": "Udinese",
+    "logo": "https://crests.football-data.org/115.png"
+   },
+   "kickoff": "2026-11-22T14:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558524",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Sassuolo",
+    "logo": "https://crests.football-data.org/471.png"
+   },
+   "away": {
+    "name": "Genoa",
+    "logo": "https://crests.football-data.org/107.png"
+   },
+   "kickoff": "2026-11-22T14:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559625",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Paris FC",
+    "logo": "https://crests.football-data.org/1045.png"
+   },
+   "away": {
+    "name": "Angers SCO",
+    "logo": "https://crests.football-data.org/532.png"
+   },
+   "kickoff": "2026-11-22T14:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_560646",
+   "competition": "Premier League",
+   "competitionCode": "PL",
+   "home": {
+    "name": "Hull City",
+    "logo": "https://crests.football-data.org/322.png"
+   },
+   "away": {
+    "name": "Brighton Hove",
+    "logo": "https://crests.football-data.org/397.png"
+   },
+   "kickoff": "2026-11-22T14:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_565864",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "Augsburg",
+    "logo": "https://crests.football-data.org/16.png"
+   },
+   "away": {
+    "name": "Mainz",
+    "logo": "https://crests.football-data.org/15.png"
+   },
+   "kickoff": "2026-11-22T14:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564750",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Santander",
+    "logo": "https://crests.football-data.org/5335.png"
+   },
+   "away": {
+    "name": "Real Sociedad",
+    "logo": "https://crests.football-data.org/92.png"
+   },
+   "kickoff": "2026-11-22T15:15:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558829",
+   "competition": "Eredivisie",
+   "competitionCode": "DED",
+   "home": {
+    "name": "Go Ahead",
+    "logo": "https://crests.football-data.org/718.png"
+   },
+   "away": {
+    "name": "Sittard",
+    "logo": "https://crests.football-data.org/1920.png"
+   },
+   "kickoff": "2026-11-22T15:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559626",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Lorient",
+    "logo": "https://crests.football-data.org/525.png"
+   },
+   "away": {
+    "name": "Stade Rennais",
+    "logo": "https://crests.football-data.org/529.png"
+   },
+   "kickoff": "2026-11-22T16:15:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_560645",
+   "competition": "Premier League",
+   "competitionCode": "PL",
+   "home": {
+    "name": "Liverpool",
+    "logo": "https://crests.football-data.org/64.png"
+   },
+   "away": {
+    "name": "Man United",
+    "logo": "https://crests.football-data.org/66.png"
+   },
+   "kickoff": "2026-11-22T16:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_565863",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "Bremen",
+    "logo": "https://crests.football-data.org/12.png"
+   },
+   "away": {
+    "name": "HSV",
+    "logo": "https://crests.football-data.org/7.png"
+   },
+   "kickoff": "2026-11-22T16:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558523",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Milan",
+    "logo": "https://crests.football-data.org/98.png"
+   },
+   "away": {
+    "name": "Frosinone",
+    "logo": "https://crests.football-data.org/470.png"
+   },
+   "kickoff": "2026-11-22T17:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564752",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Osasuna",
+    "logo": "https://crests.football-data.org/79.png"
+   },
+   "away": {
+    "name": "Málaga",
+    "logo": "https://crests.football-data.org/84.png"
+   },
+   "kickoff": "2026-11-22T17:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_555090",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Paranaense",
+    "logo": "https://crests.football-data.org/1768.png"
+   },
+   "away": {
+    "name": "Clube do Remo",
+    "logo": "https://crests.football-data.org/4287.png"
+   },
+   "kickoff": "2026-11-22T19:00:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_558520",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Atalanta",
+    "logo": "https://crests.football-data.org/102.png"
+   },
+   "away": {
+    "name": "Inter",
+    "logo": "https://crests.football-data.org/108.png"
+   },
+   "kickoff": "2026-11-22T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559629",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Marseille",
+    "logo": "https://crests.football-data.org/516.png"
+   },
+   "away": {
+    "name": "Le Mans",
+    "logo": "https://crests.football-data.org/535.png"
+   },
+   "kickoff": "2026-11-22T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564753",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Getafe",
+    "logo": "https://crests.football-data.org/82.png"
+   },
+   "away": {
+    "name": "Atleti",
+    "logo": "https://crests.football-data.org/78.png"
+   },
+   "kickoff": "2026-11-22T20:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_555096",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Fluminense",
+    "logo": "https://crests.football-data.org/1765.png"
+   },
+   "away": {
+    "name": "Mirassol",
+    "logo": "https://crests.football-data.org/4364.png"
+   },
+   "kickoff": "2026-11-22T21:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555094",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Bragantino",
+    "logo": "https://crests.football-data.org/4286.png"
+   },
+   "away": {
+    "name": "Vasco da Gama",
+    "logo": "https://crests.football-data.org/1780.png"
+   },
+   "kickoff": "2026-11-22T22:30:00Z",
    "status": "TIMED",
    "channels": []
   }
