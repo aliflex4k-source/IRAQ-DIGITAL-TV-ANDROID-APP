@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-21T20:52:31Z",
+ "updatedAt": "2026-11-21T21:51:35Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -134,920 +134,6 @@
   }
  },
  "matches": [
-  {
-   "id": "fd_560643",
-   "competition": "Premier League",
-   "competitionCode": "PL",
-   "home": {
-    "name": "Man City",
-    "logo": "https://crests.football-data.org/65.png"
-   },
-   "away": {
-    "name": "Fulham",
-    "logo": "https://crests.football-data.org/63.png"
-   },
-   "kickoff": "2026-11-21T12:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561944",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Southampton",
-    "logo": "https://crests.football-data.org/340.png"
-   },
-   "away": {
-    "name": "Derby County",
-    "logo": "https://crests.football-data.org/342.png"
-   },
-   "kickoff": "2026-11-21T12:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561948",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Norwich",
-    "logo": "https://crests.football-data.org/68.png"
-   },
-   "away": {
-    "name": "Cardiff",
-    "logo": "https://crests.football-data.org/715.png"
-   },
-   "kickoff": "2026-11-21T12:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561950",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Millwall",
-    "logo": "https://crests.football-data.org/384.png"
-   },
-   "away": {
-    "name": "QPR",
-    "logo": "https://crests.football-data.org/69.png"
-   },
-   "kickoff": "2026-11-21T12:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_564755",
-   "competition": "Primera Division",
-   "competitionCode": "PD",
-   "home": {
-    "name": "Alavés",
-    "logo": "https://crests.football-data.org/263.png"
-   },
-   "away": {
-    "name": "Deportivo",
-    "logo": "https://crests.football-data.org/560.png"
-   },
-   "kickoff": "2026-11-21T13:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558525",
-   "competition": "Serie A",
-   "competitionCode": "SA",
-   "home": {
-    "name": "Como 1907",
-    "logo": "https://crests.football-data.org/7397.png"
-   },
-   "away": {
-    "name": "Cagliari",
-    "logo": "https://crests.football-data.org/104.png"
-   },
-   "kickoff": "2026-11-21T14:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558528",
-   "competition": "Serie A",
-   "competitionCode": "SA",
-   "home": {
-    "name": "Lazio",
-    "logo": "https://crests.football-data.org/110.png"
-   },
-   "away": {
-    "name": "Lecce",
-    "logo": "https://crests.football-data.org/5890.png"
-   },
-   "kickoff": "2026-11-21T14:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_565857",
-   "competition": "Bundesliga",
-   "competitionCode": "BL1",
-   "home": {
-    "name": "Leverkusen",
-    "logo": "https://crests.football-data.org/3.png"
-   },
-   "away": {
-    "name": "SC Paderborn",
-    "logo": "https://crests.football-data.org/29.png"
-   },
-   "kickoff": "2026-11-21T14:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_565858",
-   "competition": "Bundesliga",
-   "competitionCode": "BL1",
-   "home": {
-    "name": "Union Berlin",
-    "logo": "https://crests.football-data.org/28.png"
-   },
-   "away": {
-    "name": "RB Leipzig",
-    "logo": "https://crests.football-data.org/721.png"
-   },
-   "kickoff": "2026-11-21T14:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_565860",
-   "competition": "Bundesliga",
-   "competitionCode": "BL1",
-   "home": {
-    "name": "Elversberg",
-    "logo": "https://crests.football-data.org/719.png"
-   },
-   "away": {
-    "name": "Freiburg",
-    "logo": "https://crests.football-data.org/17.png"
-   },
-   "kickoff": "2026-11-21T14:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_565862",
-   "competition": "Bundesliga",
-   "competitionCode": "BL1",
-   "home": {
-    "name": "M'gladbach",
-    "logo": "https://crests.football-data.org/18.png"
-   },
-   "away": {
-    "name": "Dortmund",
-    "logo": "https://crests.football-data.org/4.png"
-   },
-   "kickoff": "2026-11-21T14:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_565865",
-   "competition": "Bundesliga",
-   "competitionCode": "BL1",
-   "home": {
-    "name": "Frankfurt",
-    "logo": "https://crests.football-data.org/19.png"
-   },
-   "away": {
-    "name": "Hoffenheim",
-    "logo": "https://crests.football-data.org/2.png"
-   },
-   "kickoff": "2026-11-21T14:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_560642",
-   "competition": "Premier League",
-   "competitionCode": "PL",
-   "home": {
-    "name": "Chelsea",
-    "logo": "https://crests.football-data.org/61.png"
-   },
-   "away": {
-    "name": "Leeds United",
-    "logo": "https://crests.football-data.org/341.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_560644",
-   "competition": "Premier League",
-   "competitionCode": "PL",
-   "home": {
-    "name": "Aston Villa",
-    "logo": "https://crests.football-data.org/58.png"
-   },
-   "away": {
-    "name": "Sunderland",
-    "logo": "https://crests.football-data.org/71.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_560647",
-   "competition": "Premier League",
-   "competitionCode": "PL",
-   "home": {
-    "name": "Bournemouth",
-    "logo": "https://crests.football-data.org/bournemouth.png"
-   },
-   "away": {
-    "name": "Nottingham",
-    "logo": "https://crests.football-data.org/351.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_560648",
-   "competition": "Premier League",
-   "competitionCode": "PL",
-   "home": {
-    "name": "Tottenham",
-    "logo": "https://crests.football-data.org/73.png"
-   },
-   "away": {
-    "name": "Ipswich Town",
-    "logo": "https://crests.football-data.org/349.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_560650",
-   "competition": "Premier League",
-   "competitionCode": "PL",
-   "home": {
-    "name": "Coventry City",
-    "logo": "https://crests.football-data.org/1076.png"
-   },
-   "away": {
-    "name": "Crystal Palace",
-    "logo": "https://crests.football-data.org/354.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561941",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Sheffield Utd",
-    "logo": "https://crests.football-data.org/356.png"
-   },
-   "away": {
-    "name": "Watford",
-    "logo": "https://crests.football-data.org/346.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561942",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Swansea",
-    "logo": "https://crests.football-data.org/72.png"
-   },
-   "away": {
-    "name": "West Brom",
-    "logo": "https://crests.football-data.org/74.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561943",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Middlesbrough",
-    "logo": "https://crests.football-data.org/343.png"
-   },
-   "away": {
-    "name": "Bristol City",
-    "logo": "https://crests.football-data.org/387.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561945",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Bolton",
-    "logo": "https://crests.football-data.org/60.png"
-   },
-   "away": {
-    "name": "Portsmouth",
-    "logo": "https://crests.football-data.org/325.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561946",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Stoke",
-    "logo": "https://crests.football-data.org/70.png"
-   },
-   "away": {
-    "name": "Birmingham",
-    "logo": "https://crests.football-data.org/332.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561949",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Lincoln City",
-    "logo": "https://crests.football-data.org/1126.png"
-   },
-   "away": {
-    "name": "Wrexham",
-    "logo": "https://crests.football-data.org/404.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561951",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "West Ham",
-    "logo": "https://crests.football-data.org/563.png"
-   },
-   "away": {
-    "name": "Preston NE",
-    "logo": "https://crests.football-data.org/1081.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561952",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Wolverhampton",
-    "logo": "https://crests.football-data.org/76.png"
-   },
-   "away": {
-    "name": "Charlton",
-    "logo": "https://crests.football-data.org/348.png"
-   },
-   "kickoff": "2026-11-21T15:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_564751",
-   "competition": "Primera Division",
-   "competitionCode": "PD",
-   "home": {
-    "name": "Rayo Vallecano",
-    "logo": "https://crests.football-data.org/87.png"
-   },
-   "away": {
-    "name": "Valencia",
-    "logo": "https://crests.football-data.org/95.png"
-   },
-   "kickoff": "2026-11-21T15:15:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558833",
-   "competition": "Eredivisie",
-   "competitionCode": "DED",
-   "home": {
-    "name": "NEC",
-    "logo": "https://crests.football-data.org/1915.png"
-   },
-   "away": {
-    "name": "PSV",
-    "logo": "https://crests.football-data.org/674.png"
-   },
-   "kickoff": "2026-11-21T15:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_559628",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "Nice",
-    "logo": "https://crests.football-data.org/522.png"
-   },
-   "away": {
-    "name": "PSG",
-    "logo": "https://crests.football-data.org/524.png"
-   },
-   "kickoff": "2026-11-21T16:15:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558526",
-   "competition": "Serie A",
-   "competitionCode": "SA",
-   "home": {
-    "name": "Parma",
-    "logo": "https://crests.football-data.org/112.png"
-   },
-   "away": {
-    "name": "Roma",
-    "logo": "https://crests.football-data.org/100.png"
-   },
-   "kickoff": "2026-11-21T17:00:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_560651",
-   "competition": "Premier League",
-   "competitionCode": "PL",
-   "home": {
-    "name": "Newcastle",
-    "logo": "https://crests.football-data.org/67.png"
-   },
-   "away": {
-    "name": "Arsenal",
-    "logo": "https://crests.football-data.org/57.png"
-   },
-   "kickoff": "2026-11-21T17:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_564756",
-   "competition": "Primera Division",
-   "competitionCode": "PD",
-   "home": {
-    "name": "Sevilla FC",
-    "logo": "https://crests.football-data.org/559.png"
-   },
-   "away": {
-    "name": "Real Betis",
-    "logo": "https://crests.football-data.org/90.png"
-   },
-   "kickoff": "2026-11-21T17:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_565861",
-   "competition": "Bundesliga",
-   "competitionCode": "BL1",
-   "home": {
-    "name": "Schalke",
-    "logo": "https://crests.football-data.org/6.png"
-   },
-   "away": {
-    "name": "Stuttgart",
-    "logo": "https://crests.football-data.org/10.png"
-   },
-   "kickoff": "2026-11-21T17:30:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558831",
-   "competition": "Eredivisie",
-   "competitionCode": "DED",
-   "home": {
-    "name": "Feyenoord",
-    "logo": "https://crests.football-data.org/675.png"
-   },
-   "away": {
-    "name": "Excelsior",
-    "logo": "https://crests.football-data.org/670.png"
-   },
-   "kickoff": "2026-11-21T17:45:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558835",
-   "competition": "Eredivisie",
-   "competitionCode": "DED",
-   "home": {
-    "name": "Utrecht",
-    "logo": "https://crests.football-data.org/676.png"
-   },
-   "away": {
-    "name": "Cambuur",
-    "logo": "https://crests.football-data.org/1909.png"
-   },
-   "kickoff": "2026-11-21T17:45:00Z",
-   "status": "FINISHED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_555098",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Palmeiras",
-    "logo": "https://crests.football-data.org/1769.png"
-   },
-   "away": {
-    "name": "Flamengo",
-    "logo": "https://crests.football-data.org/1783.png"
-   },
-   "kickoff": "2026-11-21T19:30:00Z",
-   "status": "IN_PLAY",
-   "channels": []
-  },
-  {
-   "id": "fd_558527",
-   "competition": "Serie A",
-   "competitionCode": "SA",
-   "home": {
-    "name": "Napoli",
-    "logo": "https://crests.football-data.org/113.png"
-   },
-   "away": {
-    "name": "Torino",
-    "logo": "https://crests.football-data.org/586.png"
-   },
-   "kickoff": "2026-11-21T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_559621",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "Monaco",
-    "logo": "https://crests.football-data.org/548.png"
-   },
-   "away": {
-    "name": "Auxerre",
-    "logo": "https://crests.football-data.org/519.png"
-   },
-   "kickoff": "2026-11-21T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_559623",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "RC Lens",
-    "logo": "https://crests.football-data.org/546.png"
-   },
-   "away": {
-    "name": "Toulouse",
-    "logo": "https://crests.football-data.org/511.png"
-   },
-   "kickoff": "2026-11-21T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_559624",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "Lille",
-    "logo": "https://crests.football-data.org/521.png"
-   },
-   "away": {
-    "name": "Olympique Lyon",
-    "logo": "https://crests.football-data.org/523.png"
-   },
-   "kickoff": "2026-11-21T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_559627",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "Strasbourg",
-    "logo": "https://crests.football-data.org/576.png"
-   },
-   "away": {
-    "name": "Brest",
-    "logo": "https://crests.football-data.org/512.png"
-   },
-   "kickoff": "2026-11-21T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558832",
-   "competition": "Eredivisie",
-   "competitionCode": "DED",
-   "home": {
-    "name": "Telstar",
-    "logo": "https://crests.football-data.org/1912.png"
-   },
-   "away": {
-    "name": "Zwolle",
-    "logo": "https://crests.football-data.org/684.png"
-   },
-   "kickoff": "2026-11-21T20:00:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558834",
-   "competition": "Eredivisie",
-   "competitionCode": "DED",
-   "home": {
-    "name": "Groningen",
-    "logo": "https://crests.football-data.org/677.png"
-   },
-   "away": {
-    "name": "Heerenveen",
-    "logo": "https://crests.football-data.org/673.png"
-   },
-   "kickoff": "2026-11-21T20:00:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_564754",
-   "competition": "Primera Division",
-   "competitionCode": "PD",
-   "home": {
-    "name": "Real Madrid",
-    "logo": "https://crests.football-data.org/86.png"
-   },
-   "away": {
-    "name": "Celta",
-    "logo": "https://crests.football-data.org/558.png"
-   },
-   "kickoff": "2026-11-21T20:00:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_555092",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Bahia",
-    "logo": "https://crests.football-data.org/1777.png"
-   },
-   "away": {
-    "name": "Coritiba",
-    "logo": "https://crests.football-data.org/4241.png"
-   },
-   "kickoff": "2026-11-21T20:30:00Z",
-   "status": "IN_PLAY",
-   "channels": []
-  },
   {
    "id": "fd_555095",
    "competition": "Campeonato Brasileiro Série A",
@@ -2721,6 +1807,815 @@
     "logo": "https://crests.football-data.org/1771.png"
    },
    "kickoff": "2026-11-27T23:00:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_561969",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Blackburn",
+    "logo": "https://crests.football-data.org/59.png"
+   },
+   "away": {
+    "name": "Charlton",
+    "logo": "https://crests.football-data.org/348.png"
+   },
+   "kickoff": "2026-11-28T12:30:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561972",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Lincoln City",
+    "logo": "https://crests.football-data.org/1126.png"
+   },
+   "away": {
+    "name": "Wolverhampton",
+    "logo": "https://crests.football-data.org/76.png"
+   },
+   "kickoff": "2026-11-28T12:30:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561973",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Preston NE",
+    "logo": "https://crests.football-data.org/1081.png"
+   },
+   "away": {
+    "name": "Norwich",
+    "logo": "https://crests.football-data.org/68.png"
+   },
+   "kickoff": "2026-11-28T12:30:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564760",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Real Betis",
+    "logo": "https://crests.football-data.org/90.png"
+   },
+   "away": {
+    "name": "Rayo Vallecano",
+    "logo": "https://crests.football-data.org/87.png"
+   },
+   "kickoff": "2026-11-28T13:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558513",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Frosinone",
+    "logo": "https://crests.football-data.org/470.png"
+   },
+   "away": {
+    "name": "Parma",
+    "logo": "https://crests.football-data.org/112.png"
+   },
+   "kickoff": "2026-11-28T14:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_565866",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "1. FC Köln",
+    "logo": "https://crests.football-data.org/1.png"
+   },
+   "away": {
+    "name": "Elversberg",
+    "logo": "https://crests.football-data.org/719.png"
+   },
+   "kickoff": "2026-11-28T14:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_565867",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "Mainz",
+    "logo": "https://crests.football-data.org/15.png"
+   },
+   "away": {
+    "name": "Union Berlin",
+    "logo": "https://crests.football-data.org/28.png"
+   },
+   "kickoff": "2026-11-28T14:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_565868",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "SC Paderborn",
+    "logo": "https://crests.football-data.org/29.png"
+   },
+   "away": {
+    "name": "Schalke",
+    "logo": "https://crests.football-data.org/6.png"
+   },
+   "kickoff": "2026-11-28T14:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_565874",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "HSV",
+    "logo": "https://crests.football-data.org/7.png"
+   },
+   "away": {
+    "name": "Bayern",
+    "logo": "https://crests.football-data.org/5.png"
+   },
+   "kickoff": "2026-11-28T14:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_560652",
+   "competition": "Premier League",
+   "competitionCode": "PL",
+   "home": {
+    "name": "Leeds United",
+    "logo": "https://crests.football-data.org/341.png"
+   },
+   "away": {
+    "name": "Coventry City",
+    "logo": "https://crests.football-data.org/1076.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_560655",
+   "competition": "Premier League",
+   "competitionCode": "PL",
+   "home": {
+    "name": "Man United",
+    "logo": "https://crests.football-data.org/66.png"
+   },
+   "away": {
+    "name": "Brentford",
+    "logo": "https://crests.football-data.org/402.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561965",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Wrexham",
+    "logo": "https://crests.football-data.org/404.png"
+   },
+   "away": {
+    "name": "Portsmouth",
+    "logo": "https://crests.football-data.org/325.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561966",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "QPR",
+    "logo": "https://crests.football-data.org/69.png"
+   },
+   "away": {
+    "name": "Sheffield Utd",
+    "logo": "https://crests.football-data.org/356.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561967",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Millwall",
+    "logo": "https://crests.football-data.org/384.png"
+   },
+   "away": {
+    "name": "Burnley",
+    "logo": "https://crests.football-data.org/328.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561970",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Birmingham",
+    "logo": "https://crests.football-data.org/332.png"
+   },
+   "away": {
+    "name": "Bolton",
+    "logo": "https://crests.football-data.org/60.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561971",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Derby County",
+    "logo": "https://crests.football-data.org/342.png"
+   },
+   "away": {
+    "name": "Watford",
+    "logo": "https://crests.football-data.org/346.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561974",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "West Ham",
+    "logo": "https://crests.football-data.org/563.png"
+   },
+   "away": {
+    "name": "Stoke",
+    "logo": "https://crests.football-data.org/70.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561975",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "West Brom",
+    "logo": "https://crests.football-data.org/74.png"
+   },
+   "away": {
+    "name": "Bristol City",
+    "logo": "https://crests.football-data.org/387.png"
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564767",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Málaga",
+    "logo": "https://crests.football-data.org/84.png"
+   },
+   "away": {
+    "name": "Athletic",
+    "logo": "https://crests.football-data.org/77.png"
+   },
+   "kickoff": "2026-11-28T15:15:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558825",
+   "competition": "Eredivisie",
+   "competitionCode": "DED",
+   "home": {
+    "name": "Excelsior",
+    "logo": "https://crests.football-data.org/670.png"
+   },
+   "away": {
+    "name": "Telstar",
+    "logo": "https://crests.football-data.org/1912.png"
+   },
+   "kickoff": "2026-11-28T15:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_567357",
+   "competition": "Primeira Liga",
+   "competitionCode": "PPL",
+   "home": {
+    "name": "Moreirense",
+    "logo": "https://crests.football-data.org/583.png"
+   },
+   "away": {
+    "name": "Santa Clara",
+    "logo": "https://crests.football-data.org/5530.png"
+   },
+   "kickoff": "2026-11-28T15:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_567362",
+   "competition": "Primeira Liga",
+   "competitionCode": "PPL",
+   "home": {
+    "name": "Arouca",
+    "logo": "https://crests.football-data.org/712.png"
+   },
+   "away": {
+    "name": "Rio Ave",
+    "logo": "https://crests.football-data.org/496.png"
+   },
+   "kickoff": "2026-11-28T15:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559612",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Angers SCO",
+    "logo": "https://crests.football-data.org/532.png"
+   },
+   "away": {
+    "name": "RC Lens",
+    "logo": "https://crests.football-data.org/546.png"
+   },
+   "kickoff": "2026-11-28T16:15:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558514",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Torino",
+    "logo": "https://crests.football-data.org/586.png"
+   },
+   "away": {
+    "name": "Lazio",
+    "logo": "https://crests.football-data.org/110.png"
+   },
+   "kickoff": "2026-11-28T17:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_560653",
+   "competition": "Premier League",
+   "competitionCode": "PL",
+   "home": {
+    "name": "Ipswich Town",
+    "logo": "https://crests.football-data.org/349.png"
+   },
+   "away": {
+    "name": "Aston Villa",
+    "logo": "https://crests.football-data.org/58.png"
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564759",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Elche",
+    "logo": "https://crests.football-data.org/285.png"
+   },
+   "away": {
+    "name": "Atleti",
+    "logo": "https://crests.football-data.org/78.png"
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_565870",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "Stuttgart",
+    "logo": "https://crests.football-data.org/10.png"
+   },
+   "away": {
+    "name": "Frankfurt",
+    "logo": "https://crests.football-data.org/19.png"
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558826",
+   "competition": "Eredivisie",
+   "competitionCode": "DED",
+   "home": {
+    "name": "PSV",
+    "logo": "https://crests.football-data.org/674.png"
+   },
+   "away": {
+    "name": "Go Ahead",
+    "logo": "https://crests.football-data.org/718.png"
+   },
+   "kickoff": "2026-11-28T17:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_567364",
+   "competition": "Primeira Liga",
+   "competitionCode": "PPL",
+   "home": {
+    "name": "Acad. Viseu",
+    "logo": "https://crests.football-data.org/5527.png"
+   },
+   "away": {
+    "name": "Alverca",
+    "logo": "https://crests.football-data.org/7822.png"
+   },
+   "kickoff": "2026-11-28T18:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558518",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Inter",
+    "logo": "https://crests.football-data.org/108.png"
+   },
+   "away": {
+    "name": "Genoa",
+    "logo": "https://crests.football-data.org/107.png"
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559613",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Le Havre",
+    "logo": "https://crests.football-data.org/533.png"
+   },
+   "away": {
+    "name": "Strasbourg",
+    "logo": "https://crests.football-data.org/576.png"
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559614",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "PSG",
+    "logo": "https://crests.football-data.org/524.png"
+   },
+   "away": {
+    "name": "Lorient",
+    "logo": "https://crests.football-data.org/525.png"
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559617",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Le Mans",
+    "logo": "https://crests.football-data.org/535.png"
+   },
+   "away": {
+    "name": "Lille",
+    "logo": "https://crests.football-data.org/521.png"
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559620",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Nice",
+    "logo": "https://crests.football-data.org/522.png"
+   },
+   "away": {
+    "name": "Troyes",
+    "logo": "https://crests.football-data.org/531.png"
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558819",
+   "competition": "Eredivisie",
+   "competitionCode": "DED",
+   "home": {
+    "name": "Cambuur",
+    "logo": "https://crests.football-data.org/1909.png"
+   },
+   "away": {
+    "name": "Sparta",
+    "logo": "https://crests.football-data.org/6806.png"
+   },
+   "kickoff": "2026-11-28T20:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564762",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Real Madrid",
+    "logo": "https://crests.football-data.org/86.png"
+   },
+   "away": {
+    "name": "Alavés",
+    "logo": "https://crests.football-data.org/263.png"
+   },
+   "kickoff": "2026-11-28T20:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_576807",
+   "competition": "Copa Libertadores",
+   "competitionCode": "CLI",
+   "home": {
+    "name": "Palmeiras",
+    "logo": "https://crests.football-data.org/1769.png"
+   },
+   "away": {
+    "name": "Estudiantes LP",
+    "logo": "https://crests.football-data.org/2051.png"
+   },
+   "kickoff": "2026-11-28T20:00:00Z",
+   "status": "SCHEDULED",
+   "channels": []
+  },
+  {
+   "id": "fd_567356",
+   "competition": "Primeira Liga",
+   "competitionCode": "PPL",
+   "home": {
+    "name": "Vitória SC",
+    "logo": "https://crests.football-data.org/5543.png"
+   },
+   "away": {
+    "name": "Amadora",
+    "logo": "https://crests.football-data.org/9136.png"
+   },
+   "kickoff": "2026-11-28T20:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_555101",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Botafogo",
+    "logo": "https://crests.football-data.org/1770.png"
+   },
+   "away": {
+    "name": "Bahia",
+    "logo": "https://crests.football-data.org/1777.png"
+   },
+   "kickoff": "2026-11-29T00:00:00Z",
    "status": "TIMED",
    "channels": []
   }
