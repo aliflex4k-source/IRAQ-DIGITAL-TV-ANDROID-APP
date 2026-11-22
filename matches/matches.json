@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-22T15:54:44Z",
+ "updatedAt": "2026-11-22T16:56:23Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -289,7 +289,7 @@
     "logo": "https://crests.football-data.org/115.png"
    },
    "kickoff": "2026-11-22T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -310,7 +310,7 @@
     "logo": "https://crests.football-data.org/107.png"
    },
    "kickoff": "2026-11-22T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -331,7 +331,7 @@
     "logo": "https://crests.football-data.org/532.png"
    },
    "kickoff": "2026-11-22T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -352,7 +352,7 @@
     "logo": "https://crests.football-data.org/397.png"
    },
    "kickoff": "2026-11-22T14:00:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -373,7 +373,7 @@
     "logo": "https://crests.football-data.org/15.png"
    },
    "kickoff": "2026-11-22T14:30:00Z",
-   "status": "IN_PLAY",
+   "status": "FINISHED",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -436,7 +436,7 @@
     "logo": "https://crests.football-data.org/529.png"
    },
    "kickoff": "2026-11-22T16:15:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -457,7 +457,7 @@
     "logo": "https://crests.football-data.org/66.png"
    },
    "kickoff": "2026-11-22T16:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
@@ -478,7 +478,7 @@
     "logo": "https://crests.football-data.org/7.png"
    },
    "kickoff": "2026-11-22T16:30:00Z",
-   "status": "TIMED",
+   "status": "IN_PLAY",
    "channels": [
     "bein_sports_1",
     "bein_sports_2",
