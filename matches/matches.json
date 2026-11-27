@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-26T08:17:01Z",
+ "updatedAt": "2026-11-27T01:56:42Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -42,22 +42,6 @@
  },
  "matches": [
   {
-   "id": "fd_555091",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "Mineiro",
-    "logo": "https://crests.football-data.org/1766.png"
-   },
-   "away": {
-    "name": "Corinthians",
-    "logo": "https://crests.football-data.org/1779.png"
-   },
-   "kickoff": "2026-11-25T23:00:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
-  {
    "id": "fd_555108",
    "competition": "Campeonato Brasileiro Série A",
    "competitionCode": "BSA",
@@ -70,7 +54,7 @@
     "logo": "https://crests.football-data.org/4287.png"
    },
    "kickoff": "2026-11-26T23:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "channels": []
   },
   {
@@ -2078,6 +2062,187 @@
     "logo": "https://crests.football-data.org/78.png"
    },
    "kickoff": "2026-12-02T20:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_555110",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Paranaense",
+    "logo": "https://crests.football-data.org/1768.png"
+   },
+   "away": {
+    "name": "São Paulo",
+    "logo": "https://crests.football-data.org/1776.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555111",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Bahia",
+    "logo": "https://crests.football-data.org/1777.png"
+   },
+   "away": {
+    "name": "Mineiro",
+    "logo": "https://crests.football-data.org/1766.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555112",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Bragantino",
+    "logo": "https://crests.football-data.org/4286.png"
+   },
+   "away": {
+    "name": "Fluminense",
+    "logo": "https://crests.football-data.org/1765.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555113",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Cruzeiro",
+    "logo": "https://crests.football-data.org/1771.png"
+   },
+   "away": {
+    "name": "Internacional",
+    "logo": "https://crests.football-data.org/6684.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555114",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Flamengo",
+    "logo": "https://crests.football-data.org/1783.png"
+   },
+   "away": {
+    "name": "Chapecoense",
+    "logo": "https://crests.football-data.org/1772_large.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555115",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Grêmio",
+    "logo": "https://crests.football-data.org/1767.png"
+   },
+   "away": {
+    "name": "Mirassol",
+    "logo": "https://crests.football-data.org/4364.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555116",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Palmeiras",
+    "logo": "https://crests.football-data.org/1769.png"
+   },
+   "away": {
+    "name": "Coritiba",
+    "logo": "https://crests.football-data.org/4241.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555117",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Clube do Remo",
+    "logo": "https://crests.football-data.org/4287.png"
+   },
+   "away": {
+    "name": "Corinthians",
+    "logo": "https://crests.football-data.org/1779.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555118",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Santos",
+    "logo": "https://crests.football-data.org/6685.png"
+   },
+   "away": {
+    "name": "Botafogo",
+    "logo": "https://crests.football-data.org/1770.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_555119",
+   "competition": "Campeonato Brasileiro Série A",
+   "competitionCode": "BSA",
+   "home": {
+    "name": "Vasco da Gama",
+    "logo": "https://crests.football-data.org/1780.png"
+   },
+   "away": {
+    "name": "Vitória",
+    "logo": "https://crests.football-data.org/1782.png"
+   },
+   "kickoff": "2026-12-03T00:30:00Z",
+   "status": "TIMED",
+   "channels": []
+  },
+  {
+   "id": "fd_560662",
+   "competition": "Premier League",
+   "competitionCode": "PL",
+   "home": {
+    "name": "Tottenham",
+    "logo": "https://crests.football-data.org/73.png"
+   },
+   "away": {
+    "name": "Fulham",
+    "logo": "https://crests.football-data.org/63.png"
+   },
+   "kickoff": "2026-12-03T20:00:00Z",
    "status": "TIMED",
    "channels": [
     "bein_sports_1",
