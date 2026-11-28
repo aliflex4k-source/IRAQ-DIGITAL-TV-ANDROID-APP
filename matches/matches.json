@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-27T19:56:51Z",
+ "updatedAt": "2026-11-28T02:40:34Z",
  "source": "football-data.org",
  "channels": {
   "bein_sports_1": {
@@ -42,190 +42,6 @@
  },
  "matches": [
   {
-   "id": "fd_555108",
-   "competition": "Campeonato Brasileiro Série A",
-   "competitionCode": "BSA",
-   "home": {
-    "name": "São Paulo",
-    "logo": "https://crests.football-data.org/1776.png"
-   },
-   "away": {
-    "name": "Clube do Remo",
-    "logo": "https://crests.football-data.org/4287.png"
-   },
-   "kickoff": "2026-11-26T23:00:00Z",
-   "status": "FINISHED",
-   "channels": []
-  },
-  {
-   "id": "fd_558820",
-   "competition": "Eredivisie",
-   "competitionCode": "DED",
-   "home": {
-    "name": "Groningen",
-    "logo": "https://crests.football-data.org/677.png"
-   },
-   "away": {
-    "name": "Willem II",
-    "logo": "https://crests.football-data.org/672.png"
-   },
-   "kickoff": "2026-11-27T19:00:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_565869",
-   "competition": "Bundesliga",
-   "competitionCode": "BL1",
-   "home": {
-    "name": "Bremen",
-    "logo": "https://crests.football-data.org/12.png"
-   },
-   "away": {
-    "name": "M'gladbach",
-    "logo": "https://crests.football-data.org/18.png"
-   },
-   "kickoff": "2026-11-27T19:30:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_558515",
-   "competition": "Serie A",
-   "competitionCode": "SA",
-   "home": {
-    "name": "Venezia FC",
-    "logo": "https://crests.football-data.org/454.png"
-   },
-   "away": {
-    "name": "Bologna",
-    "logo": "https://crests.football-data.org/103.png"
-   },
-   "kickoff": "2026-11-27T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_559616",
-   "competition": "Ligue 1",
-   "competitionCode": "FL1",
-   "home": {
-    "name": "Brest",
-    "logo": "https://crests.football-data.org/512.png"
-   },
-   "away": {
-    "name": "Paris FC",
-    "logo": "https://crests.football-data.org/1045.png"
-   },
-   "kickoff": "2026-11-27T19:45:00Z",
-   "status": "IN_PLAY",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_560658",
-   "competition": "Premier League",
-   "competitionCode": "PL",
-   "home": {
-    "name": "Nottingham",
-    "logo": "https://crests.football-data.org/351.png"
-   },
-   "away": {
-    "name": "Chelsea",
-    "logo": "https://crests.football-data.org/61.png"
-   },
-   "kickoff": "2026-11-27T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_561968",
-   "competition": "Championship",
-   "competitionCode": "ELC",
-   "home": {
-    "name": "Southampton",
-    "logo": "https://crests.football-data.org/340.png"
-   },
-   "away": {
-    "name": "Middlesbrough",
-    "logo": "https://crests.football-data.org/343.png"
-   },
-   "kickoff": "2026-11-27T20:00:00Z",
-   "status": "SCHEDULED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_564765",
-   "competition": "Primera Division",
-   "competitionCode": "PD",
-   "home": {
-    "name": "Levante",
-    "logo": "https://crests.football-data.org/88.png"
-   },
-   "away": {
-    "name": "Santander",
-    "logo": "https://crests.football-data.org/5335.png"
-   },
-   "kickoff": "2026-11-27T20:00:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
-   "id": "fd_567361",
-   "competition": "Primeira Liga",
-   "competitionCode": "PPL",
-   "home": {
-    "name": "Marítimo",
-    "logo": "https://crests.football-data.org/5575.png"
-   },
-   "away": {
-    "name": "CD Nacional",
-    "logo": "https://crests.football-data.org/5529.png"
-   },
-   "kickoff": "2026-11-27T20:15:00Z",
-   "status": "TIMED",
-   "channels": [
-    "bein_sports_1",
-    "bein_sports_2",
-    "bein_sports_3",
-    "bein_sports_4"
-   ]
-  },
-  {
    "id": "fd_555105",
    "competition": "Campeonato Brasileiro Série A",
    "competitionCode": "BSA",
@@ -238,7 +54,7 @@
     "logo": "https://crests.football-data.org/1771.png"
    },
    "kickoff": "2026-11-27T23:00:00Z",
-   "status": "TIMED",
+   "status": "FINISHED",
    "channels": []
   },
   {
@@ -2243,6 +2059,153 @@
     "logo": "https://crests.football-data.org/63.png"
    },
    "kickoff": "2026-12-03T20:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558812",
+   "competition": "Eredivisie",
+   "competitionCode": "DED",
+   "home": {
+    "name": "Telstar",
+    "logo": "https://crests.football-data.org/1912.png"
+   },
+   "away": {
+    "name": "Groningen",
+    "logo": "https://crests.football-data.org/677.png"
+   },
+   "kickoff": "2026-12-04T19:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_565882",
+   "competition": "Bundesliga",
+   "competitionCode": "BL1",
+   "home": {
+    "name": "Bayern",
+    "logo": "https://crests.football-data.org/5.png"
+   },
+   "away": {
+    "name": "SC Paderborn",
+    "logo": "https://crests.football-data.org/29.png"
+   },
+   "kickoff": "2026-12-04T19:30:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_558502",
+   "competition": "Serie A",
+   "competitionCode": "SA",
+   "home": {
+    "name": "Bologna",
+    "logo": "https://crests.football-data.org/103.png"
+   },
+   "away": {
+    "name": "Roma",
+    "logo": "https://crests.football-data.org/100.png"
+   },
+   "kickoff": "2026-12-04T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_559609",
+   "competition": "Ligue 1",
+   "competitionCode": "FL1",
+   "home": {
+    "name": "Toulouse",
+    "logo": "https://crests.football-data.org/511.png"
+   },
+   "away": {
+    "name": "PSG",
+    "logo": "https://crests.football-data.org/524.png"
+   },
+   "kickoff": "2026-12-04T19:45:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_561979",
+   "competition": "Championship",
+   "competitionCode": "ELC",
+   "home": {
+    "name": "Sheffield Utd",
+    "logo": "https://crests.football-data.org/356.png"
+   },
+   "away": {
+    "name": "West Ham",
+    "logo": "https://crests.football-data.org/563.png"
+   },
+   "kickoff": "2026-12-04T20:00:00Z",
+   "status": "SCHEDULED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_564770",
+   "competition": "Primera Division",
+   "competitionCode": "PD",
+   "home": {
+    "name": "Alavés",
+    "logo": "https://crests.football-data.org/263.png"
+   },
+   "away": {
+    "name": "Espanyol",
+    "logo": "https://crests.football-data.org/80.png"
+   },
+   "kickoff": "2026-12-04T20:00:00Z",
+   "status": "TIMED",
+   "channels": [
+    "bein_sports_1",
+    "bein_sports_2",
+    "bein_sports_3",
+    "bein_sports_4"
+   ]
+  },
+  {
+   "id": "fd_567365",
+   "competition": "Primeira Liga",
+   "competitionCode": "PPL",
+   "home": {
+    "name": "Sporting CP",
+    "logo": "https://crests.football-data.org/498.png"
+   },
+   "away": {
+    "name": "Marítimo",
+    "logo": "https://crests.football-data.org/5575.png"
+   },
+   "kickoff": "2026-12-04T20:15:00Z",
    "status": "TIMED",
    "channels": [
     "bein_sports_1",
